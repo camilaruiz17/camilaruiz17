@@ -33,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilaruiz17&show_icons=true&locale=en&layout=compact" alt="camilaruiz17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camilaruiz17&show_icons=true&locale=en" alt="camilaruiz17" /></p>
+<h3> Latest achievement </h3>
+<img width="735" alt="Captura de Pantalla 2023-02-28 a las 20 24 05" src="https://user-images.githubusercontent.com/29289121/233668529-45770855-8898-4979-b685-0bd3df1feda8.png">
