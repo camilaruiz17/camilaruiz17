@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Camila Ruiz!</h1>
 
-<img src="https://user-images.githubusercontent.com/29289121/233658469-93b8f48a-baaa-4276-bd8d-7564e26cc5d4.PNG" width='' heigth=''>
-
-
-
+<img src="https://user-images.githubusercontent.com/29289121/233662765-46b6c46b-629e-446b-853f-80c37b819c0d.PNG">
 
 <h3 align="center">I am a person committed to what I am passionate about and constant learning in programming is what I dedicate my time to, I turned my career around a while ago and finding myself in this new profession is something I am grateful for.</h3>
 
